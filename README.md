@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Harshini
 ## 🌟 About Me
+## 👩‍💻 Profile
+
+![Harshini](harsh.jpg)
 
 Hello! I'm Harshini, a Computer Science and Engineering student passionate about programming, technology, and software development.
 
@@ -47,6 +50,9 @@ A web-based event registration system with form validation.
 ### 3. QR Code Generator
 
 A simple application that generates QR codes using JavaScript.
+## 🔗 Connect With Me
+
+- [GitHub](https://github.com/vharshinicse2405r5-beep/Student-Portfolio5R5)
 
 **Technologies:** HTML, CSS, JavaScript
 ## 📜 Certifications
@@ -54,3 +60,10 @@ A simple application that generates QR codes using JavaScript.
 - Cisco Python Programming Certification
 - NPTEL Certification – Data Structures and Algorithms using Java
 - Cisco Introduction to Computer Networks (CCNA)
+- ## 🛠️ Technologies
+
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Java](https://img.shields.io/badge/Java-Programming-orange)
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
