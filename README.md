@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Harshini
-## 👩‍💻 Profile
+# Hi, I'm Harshini
+##Profile
 
 ![Harshini](harsh.png)
 
 ---
 
-## 🌟 About Me
+## About Me
 
 Hello! I'm **Harshini**, a Computer Science and Engineering student passionate about programming, technology, and software development.
 
@@ -14,7 +14,7 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 ---
 
 
-## 🎓 Education
+##  Education
 
 | Qualification | Institution | Field |
 |---|---|---|
@@ -24,7 +24,7 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 
 ---
 
-## 💻 Skills
+##  Skills
 
 ### Programming Languages
 
@@ -47,7 +47,7 @@ I enjoy learning new technologies, building projects, and improving my problem-s
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. Smart Parking Monitoring System
 
@@ -69,7 +69,7 @@ A simple application that generates QR codes using JavaScript.
 
 ---
 
-## 📜 Certifications
+## certifications
 
 - Cisco Python Programming Certification
 - NPTEL Certification – Data Structures and Algorithms using Java
@@ -77,7 +77,7 @@ A simple application that generates QR codes using JavaScript.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![Java](https://img.shields.io/badge/Java-Programming-orange)
@@ -87,14 +87,14 @@ A simple application that generates QR codes using JavaScript.
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 - [GitHub](https://github.com/vharshinicse2405r5-beep/Student-Portfolio5R5)
 - [LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-## 📞 Contact Me
+##  Contact Me
 
 - 📧 Email: YOUR_EMAIL
 
