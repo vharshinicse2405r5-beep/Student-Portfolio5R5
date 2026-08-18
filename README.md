@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshini
 ## 👩‍💻 Profile
 
-![Harshini](harsh.jpg)
+![Harshini](harsh.png)
 
 ---
 
