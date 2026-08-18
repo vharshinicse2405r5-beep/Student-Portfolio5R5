@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Harshini
-## 🌟 About Me
 ## 👩‍💻 Profile
 
 ![Harshini](harsh.jpg)
 
-Hello! I'm Harshini, a Computer Science and Engineering student passionate about programming, technology, and software development.
+---
+
+## 🌟 About Me
+
+Hello! I'm **Harshini**, a Computer Science and Engineering student passionate about programming, technology, and software development.
 
 I enjoy learning new technologies, building projects, and improving my problem-solving skills.
-**Computer Science and Engineering**
-I am a **Computer Science and Engineering student** who is *passionate about technology and programming*.
+
+---
+
+
 ## 🎓 Education
 
 | Qualification | Institution | Field |
@@ -16,24 +21,33 @@ I am a **Computer Science and Engineering student** who is *passionate about tec
 | B.Tech | Mahatma Gandhi Institute of Technology | Computer Science and Engineering |
 | Intermediate | Sri Chaitanya | MPC |
 | School | Sri Chaitanya | School Education |
+
+---
+
 ## 💻 Skills
 
 ### Programming Languages
+
 - C
 - Java
 - Python
 
 ### Web Technologies
+
 - HTML
 - CSS
 - JavaScript
 
 ### Tools & Technologies
+
 - Git
 - GitHub
 - R
 - Tableau
-- ## 🚀 Projects
+
+---
+
+## 🚀 Projects
 
 ### 1. Smart Parking Monitoring System
 
@@ -50,20 +64,40 @@ A web-based event registration system with form validation.
 ### 3. QR Code Generator
 
 A simple application that generates QR codes using JavaScript.
-## 🔗 Connect With Me
-
-- [GitHub](https://github.com/vharshinicse2405r5-beep/Student-Portfolio5R5)
 
 **Technologies:** HTML, CSS, JavaScript
+
+---
+
 ## 📜 Certifications
 
 - Cisco Python Programming Certification
 - NPTEL Certification – Data Structures and Algorithms using Java
 - Cisco Introduction to Computer Networks (CCNA)
-- ## 🛠️ Technologies
+
+---
+
+## 🛠️ Technologies
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![Java](https://img.shields.io/badge/Java-Programming-orange)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![Git](https://img.shields.io/badge/Git-Version_Control-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+---
+
+## 🔗 Connect With Me
+
+- [GitHub](https://github.com/vharshinicse2405r5-beep/Student-Portfolio5R5)
+- [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+## 📞 Contact Me
+
+- 📧 Email: YOUR_EMAIL
+
+---
+
+⭐ Thank you for visiting my portfolio!
